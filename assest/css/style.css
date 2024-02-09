@@ -12,3 +12,6 @@ w-100{
     align-items: center !important;
 }
 }
+.user_list_item.active .user_list_item_arrow{
+    transform: rotate(180deg);
+}
