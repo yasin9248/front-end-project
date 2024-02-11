@@ -24,3 +24,5 @@ body {
   main {
     flex: 1 0 auto;
   }
+  table.highlight > tbody > tr:hover {
+    background-color: #37474f}
